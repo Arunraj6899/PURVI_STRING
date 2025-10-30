@@ -31,7 +31,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/ll_GOD_ABOUT_ll")
                 ],
                 [
-                    InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="https://github.com/TEAMPURVI/PURVI_STRING"),
+                    InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="https://github.com/Arunraj6899/PURVI_STRING"),
                     InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/ll_GOD_ABOUT_ll")
                 ]                
             ]
