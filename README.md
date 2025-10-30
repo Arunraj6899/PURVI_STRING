@@ -1,11 +1,11 @@
-q# FATHER 𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡
+q# 𝐆𝐎𝐃 𝐅𝐀𝐓𝐇𝐄𝐑 𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡
 <h1 align="center"
  
 ### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+GOD+FATHER +🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝐆𝐎𝐃+𝐅𝐀𝐓𝐇𝐄𝐑 +🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="http://t.me/ll_GOD_FATHER_BABU_ll"><img src="https://files.catbox.moe/ppvvg0.jpg" width="500"></a></p>
@@ -34,4 +34,4 @@ q# FATHER 𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀʟᴘʜᴀ](https://t.me/ll_GOD_ABOUT_ll) ғᴏʀ [sᴛʀɪɴɢ ɢᴇɴ](https://github.com/TEAMPURVI/PURVI_STRING) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀʟᴘʜᴀ](https://t.me/ll_GOD_ABOUT_ll) ғᴏʀ [sᴛʀɪɴɢ ɢᴇɴ](https://github.com/Arunraj6899/PURVI_STRING) </b>
